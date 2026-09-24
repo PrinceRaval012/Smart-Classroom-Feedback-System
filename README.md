@@ -1,6 +1,7 @@
 # 🎓 Smart Classroom Feedback System
 
-A web-based **Smart Classroom Feedback System** developed using **PHP and MySQL**.  
+A web-based **Smart Classroom Feedback System** developed using **PHP and MySQL**.
+
 The system allows students to submit feedback about faculty and subjects, while administrators can manage and analyze the submitted feedback.
 
 ---
